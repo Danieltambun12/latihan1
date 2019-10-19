@@ -26,8 +26,8 @@ ext file)File README.md berhasil dibuat.
 5.	Menambahkan File baru pada repository Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 File README.md berhasil ditambahkan 
 
-![image](https://user-images.githubusercontent.com/56190893/66699113-248c2480-ed0e-11e9-86e1-0db2548a374d.png
 
+![image](https://user-images.githubusercontent.com/56190893/67141111-83134e80-f28a-11e9-88ef-be35013f3a1b.png)
 
 6.	Lalu gunakan Git commit untuk menyimpan perubahan Kedalam database git				 gunakan perintah git commit -m “file pertama saya”
 
